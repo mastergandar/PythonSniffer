@@ -1,2 +1,13 @@
 # Created by .ignore support plugin (hsz.mobi)
 /venv/
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/PythonSniffer.iml
+.idea/PythonSniffer.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
